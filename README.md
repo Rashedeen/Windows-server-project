@@ -1,6 +1,5 @@
 # Server and Client System Configuration - Sentosa Hospital
 
-## Overview
 This project involved configuring a Windows Server 2022 system and connecting it with a Windows 7 client to simulate an enterprise environment for Sentosa Hospital. The goal was to deploy core Windows Server services including Active Directory, DNS, Organization Units, User Management, Folder Permissions, Group Policies (GPOs), and a Web Server using IIS.
 
 > 📄 [View Full Project Report (PDF)](docs/Windows_Server_Project.pdf)
